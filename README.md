@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to work on GitHub
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with team work
-
+- 📚 In python I create only two apps. Maybe I should start learning python ...
 
 
